@@ -1,1 +1,1 @@
-console.log(process.cwd());
+console.log('Current directory: ' + process.cwd());
